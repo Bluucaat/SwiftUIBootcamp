@@ -29,7 +29,7 @@ struct backgroundAndOverlayBootcamp: View {
                                     .foregroundColor(.white)
                             )
                             .shadow(color: Color(#colorLiteral(red: 0.09019608051, green: 0, blue: 0.3019607961, alpha: 0.6596779337)), radius: 10,
-                               x: 5, y:5)
+                               x: 5, y:6)
                     
                         ,alignment: .bottomTrailing
                     )
